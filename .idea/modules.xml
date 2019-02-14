@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SFDemo.iml" filepath="$PROJECT_DIR$/SFDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sf.iml" filepath="$PROJECT_DIR$/sf.iml" />
     </modules>
   </component>
 </project>
