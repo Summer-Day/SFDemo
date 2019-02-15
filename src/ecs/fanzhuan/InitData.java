@@ -3,7 +3,6 @@ package ecs.fanzhuan;
 import ecs.Node;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 
 public class InitData {
 
@@ -48,7 +47,7 @@ public class InitData {
 
         }
 
-        printNodeTree.printTree(list.get(0));
+        PrintNodeTree.printTree(list.get(0));
         return list.get(0);
     }
 

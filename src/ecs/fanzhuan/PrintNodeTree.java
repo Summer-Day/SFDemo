@@ -4,7 +4,7 @@ import ecs.Node;
 
 import java.util.LinkedList;
 
-public class printNodeTree {
+public class PrintNodeTree {
 
     /**
      * 按照层级打印二叉树
