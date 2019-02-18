@@ -1,4 +1,4 @@
-package ecs.fanzhuan;
+package ecs;
 
 import ecs.Node;
 
