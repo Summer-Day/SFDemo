@@ -9,6 +9,8 @@
 
 二叉树镜像翻转：fanzhuanMain.java
 
+二叉树打印所有路径：dayinsuoyouMain.java
+
 数组：
 
 有序数组两个数和等于一个固定值 SzOne.java
