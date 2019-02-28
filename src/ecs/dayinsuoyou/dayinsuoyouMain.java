@@ -3,6 +3,9 @@ package ecs.dayinsuoyou;
 import ecs.InitData;
 import ecs.Node;
 
+/**
+ * 打印二叉树说有路劲
+ */
 public class dayinsuoyouMain {
 
     public static void main(String[] str) {
